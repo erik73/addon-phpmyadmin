@@ -1,4 +1,4 @@
-# Home Assistant Add-on: phpMyAdmin
+# Home Assistant Add-on: "Unofficial" phpMyAdmin
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
@@ -19,7 +19,7 @@ A web interface for the official MariaDB add-on.
 ![phpMyAdmin screenshot](images/screenshot.png)
 
 ## About
-
+This is a fork of the official phpMyAdmin add-on, made for testing stuff. Do not use, as this can break at any time.
 phpMyAdmin is a database administration tool for MySQL & MariaDB. Frequently
 used operations (managing databases, tables, columns, relations, indexes,
 users, permissions, etc) can be performed via the user interface,
