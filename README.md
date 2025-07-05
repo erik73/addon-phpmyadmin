@@ -19,6 +19,7 @@ A web interface for the official MariaDB add-on.
 ![phpMyAdmin screenshot](images/screenshot.png)
 
 ## About
+
 This is a fork of the official phpMyAdmin add-on, made for testing stuff. Do not use, as this can break at any time.
 phpMyAdmin is a database administration tool for MySQL & MariaDB. Frequently
 used operations (managing databases, tables, columns, relations, indexes,
