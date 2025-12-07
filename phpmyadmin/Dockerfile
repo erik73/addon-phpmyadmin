@@ -22,7 +22,7 @@ RUN \
         php85-session=8.5.0-r0 \
         php85-xml=8.5.0-r0 \
         php85-zip=8.5.0-r0 \
-        php82=8.5.0-r0 \
+        php85=8.5.0-r0 \
     \
     && mkdir /var/www/phpmyadmin \
     && curl -L -s \
