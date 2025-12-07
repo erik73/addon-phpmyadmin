@@ -17,7 +17,6 @@ RUN \
         php85-iconv=8.5.0-r0 \
         php85-mbstring=8.5.0-r0 \
         php85-mysqli=8.5.0-r0 \
-        php85-opcache=8.5.0-r0 \
         php85-openssl=8.5.0-r0 \
         php85-session=8.5.0-r0 \
         php85-xml=8.5.0-r0 \
