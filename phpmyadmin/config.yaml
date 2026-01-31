@@ -2,7 +2,7 @@
 name: phpMyAdmin
 version: dev
 slug: phpmyadmin
-description: A web interface for the official MariaDB add-on
+description: A web interface for the official MariaDB app
 url: https://github.com/erik73/addon-phpmyadmin/
 ingress: true
 ingress_stream: true
