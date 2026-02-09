@@ -38,7 +38,7 @@ You could [open an issue here][issue] GitHub.
 
 MIT License
 
-Copyright (c) 2019-2025 Erik Hilton
+Copyright (c) 2019-2026 Erik Hilton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -60,30 +60,19 @@ SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/erik73/addon-phpmyadmin.svg
-[commits]: https://github.com/erik73/addon-phpmyadmin/commits/main
-[contributors]: https://github.com/erik73/addon-phpmyadmin/graphs/contributors
-[discord-ha]: https://discord.gg/c5DvZ4e
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
-[discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/erik73/addon-phpmyadmin/blob/main/phpmyadmin/DOCS.md
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-phpmyadmin/171729?u=frenck
-[frenck]: https://github.com/frenck
-[github-actions-shield]: https://github.com/erik73/addon-phpmyadmin/workflows/CI/badge.svg
-[github-actions]: https://github.com/erik73/addon-phpmyadmin/actions
-[github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
-[github-sponsors]: https://github.com/sponsors/frenck
+[commits-shield]: https://img.shields.io/github/commit-activity/y/erik73/app-phpmyadmin.svg
+[commits]: https://github.com/erik73/app-phpmyadmin/commits/main
+[contributors]: https://github.com/erik73/app-phpmyadmin/graphs/contributors
+[docs]: https://github.com/erik73/app-phpmyadmin/blob/main/phpmyadmin/DOCS.md
+[github-actions-shield]: https://github.com/erik73/app-phpmyadmin/workflows/CI/badge.svg
+[github-actions]: https://github.com/erik73/app-phpmyadmin/actions
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[issue]: https://github.com/erik73/addon-phpmyadmin/issues
+[issue]: https://github.com/erik73/app-phpmyadmin/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
-[license-shield]: https://img.shields.io/github/license/erik73/addon-phpmyadmin.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
-[patreon]: https://www.patreon.com/frenck
+[license-shield]: https://img.shields.io/github/license/erik73/app-phpmyadmin.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [python-packages]: https://pypi.org/
-[reddit]: https://reddit.com/r/homeassistant
-[releases-shield]: https://img.shields.io/github/release/erik73/addon-phpmyadmin.svg
-[releases]: https://github.com/erik73/addon-phpmyadmin/releases
+[releases-shield]: https://img.shields.io/github/release/erik73/app-phpmyadmin.svg
+[releases]: https://github.com/erik73/app-phpmyadmin/releases
 [repository]: https://github.com/erik73/repository
